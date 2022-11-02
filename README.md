@@ -1,4 +1,4 @@
-This Repository is created to created following Services in AWS
+This Repository is created to create following Services in AWS
 
 VPC
 Subnet
